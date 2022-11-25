@@ -1,3 +1,2 @@
 ﻿  소스.c
-C:\Users\HyukJun\source\repos\미정프\Project8\소스.c(1,1): warning C4828: 파일에 0x554 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
-  Project8.vcxproj -> C:\Users\HyukJun\source\repos\미정프\Project8\x64\Debug\Project8.exe
+  Project8.vcxproj -> C:\Users\HyukJun\codingTest\겹치는 두 사각형 넓이\x64\Debug\Project8.exe
